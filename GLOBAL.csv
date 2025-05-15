@@ -1,0 +1,2 @@
+"domain"	"concept"	"source_language"	"source_version"	"modality"	"randomization"	"source_value"	"description"	"target_base"	"target_base_version"	"target_value"	"target_language"	"target_version"	"sync_status"	"tid"	"ttype"
+"GLOBAL"	"GLO_T_AssistantVoice"	"en-US"	"7.1.2.2"	"hints"	"0"	"<tts_name-PIPE>"				"<tts_name-PIPE>"	"en-US"	"7.1.2.2"	"in sync"		

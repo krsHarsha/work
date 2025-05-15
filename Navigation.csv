@@ -1,0 +1,2 @@
+"domain"	"concept"	"source_language"	"source_version"	"modality"	"randomization"	"source_value"	"description"	"target_base"	"target_base_version"	"target_value"	"target_language"	"target_version"	"sync_status"	"tid"	"ttype"
+"Navigation"	"NAV_T_AddressType_Disambiguation"	"en-US"	"4.2.1"	"hints"	"0"	"<AddressType_Disambiguation_phrase>"				"<AddressType_Disambiguation_phrase>"	"en-US"	"4.2.1"	"in sync"		

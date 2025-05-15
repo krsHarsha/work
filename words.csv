@@ -1,0 +1,8 @@
+"lemma"	"source_language"	"source_value"	"source_context"	"source_fields"	"target_base"	"target_value"	"target_context"	"target_number"	"target_gender"	"target_case"	"target_fields"	"target_version"	"target_language"	"ttype"
+"ACCEPT"	"en-US"	"accept"				"accept"		"plural"				"1.0.0"	"en-US"	
+"ACCEPT"	"en-US"	"accept"				"accepts"		"*singular"				"1.0.0"	"en-US"	
+"ADDRESS"	"en-US"	"address"				"address"		"singular"			"article=true"	"1.0.0"	"en-US"	
+"ADDRESS"	"en-US"	"address"				"addresses"		"plural"			"article=true"	"1.0.0"	"en-US"	
+"APPOINTMENT"	"en-US"	"appointment"				"appointment"		"singular"			"onset=vowel"	"1.0.0"	"en-US"	
+"APPOINTMENT"	"en-US"	"appointment"				"appointments"		"plural"			"onset=vowel"	"1.0.0"	"en-US"	
+"ARE"	"en-US"	"are"				"are"		"plural"				"1.0.0"	"en-US"	

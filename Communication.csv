@@ -1,0 +1,2 @@
+"domain"	"concept"	"source_language"	"source_version"	"modality"	"randomization"	"source_value"	"description"	"target_base"	"target_base_version"	"target_value"	"target_language"	"target_version"	"sync_status"	"tid"	"ttype"
+"Communication"	"COM_T_AskIfNewTitleOrReminder"	"en-US"	"4.0.2"	"hints"	"0"	"Change title | Change reminder | Cancel"				"Change title | Change reminder | Cancel"	"en-US"	"4.0.2"	"in sync"		

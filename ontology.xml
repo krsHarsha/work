@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ontology type="semantics" version="1.0.0" is-base="false">
+    <concepts>
+        <concept name="veh_feature">
+            <attribute name="CAR_PART"/>
+            <attribute name="app"/>
+            <attribute name="area"/>
+            <attribute name="camera_type"/>
+            <attribute name="device"/>
+            <attribute name="feature"/>
+            <attribute name="key_veh_feature"/>
+            <attribute name="light_type"/>
+            <attribute name="mode_type"/>
+            <attribute name="protocol"/>
+            <attribute name="wiper_speed_mode"/>
+            <attribute name="output_device"/>
+        </concept>
+    </concepts>
+</ontology>

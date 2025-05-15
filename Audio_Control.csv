@@ -1,0 +1,4 @@
+"domain"	"concept"	"source_language"	"source_version"	"modality"	"randomization"	"source_value"	"description"	"target_base"	"target_base_version"	"target_value"	"target_language"	"target_version"	"sync_status"	"tid"	"ttype"
+"Audio_Control"	"AC_P_Add_to_Fav_Background"	"en-US"	"5.3.0"	"tts"	"0"	"<Add_to_Fav_Background_phrase>"	"_PREV: The user wants to add a specific media object or the media current playing to favorites. e.g. ""Add this song to favorites."" or ""102.1 FM is my favorite radio station."". 
+_NOW: If the media player is playing in background, acknowledge the title of the media object been added to favorites and the media source. 
+_NEXT: Dialog end after adding the target media object to favorites. "			"<Add_to_Fav_Background_phrase>"	"en-US"	"5.3.0"	"in sync"		
